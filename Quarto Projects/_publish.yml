@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 3acd3cb5-f487-4484-a016-51d05209947a
+      url: 'https://hraeder.quarto.pub/quarto-projects'
