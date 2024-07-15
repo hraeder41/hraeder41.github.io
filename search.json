@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "posts/intro-post/index.html",
+    "href": "posts/intro-post/index.html",
+    "title": "First Coding Post",
+    "section": "",
+    "text": "This is an initial test post, will likely be adjusted later to add actual code:\n\nfor i in range(10):\n    print(i)\n\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
   }
 ]
